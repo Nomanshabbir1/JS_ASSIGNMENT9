@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+background: linear-gradient(#00c6ff, #0078ff);
+}
+
+.container{
+    width: 500px;
+        background-color: white;
+        border-radius: 10px;
+        border: 0 12px 28px rgba(0,0,0,0.12);
+}
