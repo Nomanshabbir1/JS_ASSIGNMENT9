@@ -50,3 +50,9 @@ body {
     font-size: 17px;
     font-weight: 500;
 }
+
+.post .content details .privacy{
+    background: #e4e6eb;
+    max-width: 98px;
+    font-size: 11px;
+}
